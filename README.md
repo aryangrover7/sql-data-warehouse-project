@@ -850,5 +850,3 @@ The ultimate goal of this project is to demonstrate an end-to-end understanding 
 ```
 
 > **From raw source files to a business-ready data warehouse. 🚀**
-
-```
